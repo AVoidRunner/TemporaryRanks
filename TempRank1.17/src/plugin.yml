@@ -1,0 +1,12 @@
+#name: TempRank
+name: TempPerm
+version: 1.0
+author: MasterV
+main: me.Mastervrunner.TempRank.Main
+description: Give a temperary permission!
+
+commands:
+   tempperm:
+      description: Make a temporary rank!
+      usage: /tempperm-Name-permission.rank-time
+      permission: temperm.tempperm
